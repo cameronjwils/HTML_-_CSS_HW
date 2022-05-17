@@ -1,0 +1,29 @@
+body > header > h1 {
+    background-color:dodgerblue ;
+    padding: 32px;
+    margin: 0%;
+    color: white;
+}
+
+body > header > nav > ul {
+    list-style:none;
+}
+
+body > header > nav > ul > li> a {
+    color: dodgerblue;
+}
+
+footer > h3 {
+    background-color: dodgerblue;
+    padding: 2px;
+    color: white;
+    text-align: center;
+}
+
+#profile {
+    width: 70px;
+}
+
+#textbox {
+    
+}
